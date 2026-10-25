@@ -1,0 +1,69 @@
+{
+  "generatedFrom": "bala-archives ROADMAP.md portfolio table",
+  "note": "Repositories in the Shiv Balamonis portfolio, grouped by owning LLC. Used for portfolio one-pagers.",
+  "repositories": [
+    {
+      "repo": "bsgusa/bala-archives",
+      "localPath": "~/bala-archives",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Identity — this archive itself"
+    },
+    {
+      "repo": "bsgusa/bala-nexus",
+      "localPath": "~/bala-nexus",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Hub — world map referenced from archives"
+    },
+    {
+      "repo": "bsgusa/bala-pulse",
+      "localPath": "~/bala-pulse",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Trending intelligence — portfolio item"
+    },
+    {
+      "repo": "bsgusa/bala-voice",
+      "localPath": "~/bala-voice",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Public engagement — portfolio item"
+    },
+    {
+      "repo": "bsgusa/bala-weave",
+      "localPath": "~/bala-weave",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Collab & contributions — portfolio item"
+    },
+    {
+      "repo": "bsgusa/command-center-bala",
+      "localPath": "~/Command_Center_Bala_Repo",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Nerve center — ops dashboard, venture registry"
+    },
+    {
+      "repo": "bsgusa/balamonis_group_main",
+      "localPath": "~/Balamonis_Group_Main_Repo",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Shared core — platform contracts, AI Gateway, schema"
+    },
+    {
+      "repo": "bsgusa/balamonis-media",
+      "localPath": "~/Balamonis_Media_Repo",
+      "branch": "main",
+      "entity": "balamonis-llc",
+      "role": "Media studio — AI-augmented creative production"
+    },
+    {
+      "repo": "bsgusa/AI-Job-Automation",
+      "localPath": "~/AI-Job-Automation",
+      "branch": "main",
+      "entity": "lexora-ai-llc",
+      "role": "Lexora AI LLC product — career + legal document automation"
+    }
+  ]
+}
