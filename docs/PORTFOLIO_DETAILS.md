@@ -18,7 +18,8 @@ One-pager per work in the Shiv Balamonis portfolio.
 
 | Work | What it does | Who it's for | How to join |
 |---|---|---|---|
-| `AI-Job-Automation` | Career + legal document automation | Job seekers, legal document prep | Read README → 90-day focus |
+| `company-lexora-legal` | Legal document automation | Employers, immigration document prep | Read README → 90-day focus |
+| `company-lexora-jobs` | Career platform | Job seekers, employers | Read README |
 
 ## How to join any work
 

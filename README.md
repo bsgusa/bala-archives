@@ -44,7 +44,8 @@ Style: fast, direct, ship-first. Senior builder — no hand-holding needed.
 | `command-center-bala` | Balamonis LLC | Ops nerve center; dashboards, metrics, company + venture registry | Active |
 | `balamonis_group_main` | Balamonis LLC | Shared core; platform contracts, AI Gateway, schema, audit log | Active |
 | `balamonis-media` | Balamonis LLC | Media studio; AI-augmented creative production | Active |
-| `AI-Job-Automation` | Lexora AI LLC | Career + legal document automation | Active (90-day focus) |
+| `company-lexora-legal` | Lexora AI LLC | Legal document automation (lexoraai.space) | Active (90-day focus) |
+| `company-lexora-jobs` | Lexora AI LLC | Career platform (lexoraai.org) | Active |
 | `bala-nexus` | Balamonis LLC | Hub; world map of all works | New |
 | `bala-pulse` | Balamonis LLC | Trending intelligence; signal → score → backlog | New |
 | `bala-voice` | Balamonis LLC | Public engagement; issues, discussions, roadmap | New |

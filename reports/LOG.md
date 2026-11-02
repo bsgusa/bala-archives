@@ -24,3 +24,14 @@ Email: support@balamonis.com | GitHub: @bsgusa
 - docs/LLC_PROFILES.md — both LLCs detail
 - docs/PORTFOLIO_DETAILS.md — per-repo one-pagers
 - docs/PLEDGE_HISTORY.md — dated log of pledge reviews
+
+## 2026-11-01 — Lexora repo slugs corrected
+
+The 2026-11-01 GitHub cleanup renamed `bsgusa/AI-Job-Automation` → `bsgusa/company-lexora-legal`
+(lexoraai.space) and `bsgusa/company-lexoraai` → `bsgusa/company-lexora-jobs` (lexoraai.org).
+This repo still referenced the old slug.
+
+- `company/repos.json`: old slug replaced with `company-lexora-legal`; `company-lexora-jobs` added (10 repos).
+- README / docs references updated to the new slugs. Local checkout paths unchanged
+  (`~/AI-Job-Automation`, `~/company-lexoraai` — the directories were not renamed).
+- Historical entries above are left as-is.

@@ -27,7 +27,7 @@ The two operating LLCs behind the Balamonis new world.
 | Role | AI product company — legal-intelligence + career automation |
 | Focus | 90-day build focus (decided 2026-10-22) |
 | Ventures | lexora-ai, ai-job-automation |
-| Key repos | AI-Job-Automation |
+| Key repos | company-lexora-legal (lexoraai.space), company-lexora-jobs (lexoraai.org) |
 
 ## Truthful-claims note
 

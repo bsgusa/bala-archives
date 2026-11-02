@@ -59,11 +59,18 @@
       "role": "Media studio — AI-augmented creative production"
     },
     {
-      "repo": "bsgusa/AI-Job-Automation",
+      "repo": "bsgusa/company-lexora-legal",
       "localPath": "~/AI-Job-Automation",
       "branch": "main",
       "entity": "lexora-ai-llc",
-      "role": "Lexora AI LLC product — career + legal document automation"
+      "role": "Lexora AI LLC product — legal document automation"
+    },
+    {
+      "repo": "bsgusa/company-lexora-jobs",
+      "localPath": "~/company-lexoraai",
+      "branch": "main",
+      "entity": "lexora-ai-llc",
+      "role": "Lexora AI LLC product — career platform"
     }
   ]
 }

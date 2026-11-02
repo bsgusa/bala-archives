@@ -11,7 +11,7 @@
 - [x] Create `bala-archives` repo skeleton (README, ROADMAP, backlog, AGENTS, CLAUDE, LICENSE, .github/, company/, scripts/, reports/)
 - [x] Founder profile: Shiv Balamonis, stack, email, GitHub @bsgusa
 - [x] Two LLCs table: Balamonis LLC, Lexora AI LLC — what each is, focus
-- [x] Portfolio of works: 9 repos with entity, role, status
+- [x] Portfolio of works: 10 repos with entity, role, status
 - [x] Public engagement pledge: build in public, tell truth, respond, collaborate, connect everything
 - [x] Connection map to bala-nexus
 - [ ] Add `bala-archives` entry to root `backlog/priorities.md` as P-001 (in progress)
